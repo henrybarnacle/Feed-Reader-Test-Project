@@ -8,5 +8,4 @@ To run the tests, the file index.html must be loaded in the web browser. The red
  panel will deisplay with details of the tests and their results in the relevant color to indicate
  passing or failing with details on where to find the possible causes in the case of failures.
 
- ## I made use of the Jasmine documentation to aid me in completing these tests suites, as well as the 
- ## udacity forums and htmlgoodies.com.
+ ## I made use of the Jasmine documentation to aid me in completing these tests suites, as well as the udacity forums and htmlgoodies.com.
